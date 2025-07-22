@@ -1,0 +1,6 @@
+[core]
+    remote = mystorage
+['remote "mystorage"']
+    url = ../localstorage
+['db "pgsql"']
+    url = postgresql://postgres:0021@localhost:5432/titanic_db
