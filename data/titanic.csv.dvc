@@ -6,7 +6,7 @@ deps:
     file_format: csv
     table: titanic
 outs:
-- md5: a9a72b5c7bf95b35c03d24a9cff39090
-  size: 67703
+- md5: c970aa560c83c0bbb4405feba824d6d3
+  size: 25584
   hash: md5
   path: titanic.csv
