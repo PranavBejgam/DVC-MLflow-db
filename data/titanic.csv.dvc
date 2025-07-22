@@ -1,4 +1,4 @@
-md5: d1bba05e4da60413e5b4743060bbc2f7
+md5: a50683169ae49ac325dc4f1ae5ae81e8
 frozen: true
 deps:
 - db:
@@ -6,7 +6,7 @@ deps:
     file_format: csv
     table: titanic
 outs:
-- md5: 2e0e4b0aeeb40b47ee0915eba73534bc
-  size: 62894
+- md5: 780316b3cf00caf9fd0c5dce1258f9c0
+  size: 65903
   hash: md5
   path: titanic.csv
